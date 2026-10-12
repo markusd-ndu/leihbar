@@ -1,2 +1,2 @@
-const probe: number = "kein Text";
+const probe: number = 42;
 export default probe;
